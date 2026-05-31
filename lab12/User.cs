@@ -1,4 +1,4 @@
-namespace DefaultNamespace;
+namespace lab12;
 
 public class User
 {

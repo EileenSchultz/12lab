@@ -1,6 +1,5 @@
 // See https://aka.ms/new-console-template for more information
 
-
 using 12lab;
 
 Console.WriteLine("Hello, World!");

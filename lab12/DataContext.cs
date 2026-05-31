@@ -1,4 +1,4 @@
-namespace 12lab;
+namespace lab12;
 using Microsoft.EntityFrameworkCore;
 
 public class DataContext : DbContext
