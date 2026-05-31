@@ -11,4 +11,6 @@ CRUD методы покрыты тестами.
 Перед каждым тестом БД очищается.
 
 Результат работы тестов:
+
+
 <img width="278" height="304" alt="image" src="https://github.com/user-attachments/assets/1d430ca6-283a-48a2-8caf-cbdd44148cbc" />
